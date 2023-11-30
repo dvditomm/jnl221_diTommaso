@@ -9,12 +9,12 @@
 .header {
 	height: auto;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 23px;
 	text-align: center;
 	font-family: 'Verdana;', serif;
-	background-color: #9AADBF;
+	background-color: #FFD07B;
 /*	color: #210203;*/
-	color: darkred;
+	color: #424443;
 	border: 5px dashed; darkred;
 }
 
@@ -24,9 +24,16 @@ p {
 }
 h4 {
 	font-style: italic;
-	font-size: 40px;
+	font-size: 20px;
 	font-family: 'Times New Roman;', serif;
 }
+	h5 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 17px;
+	font-family: 'Times New Roman;', serif;
+}
+
 h3 {
 	font-size: 30px;
 }
@@ -50,5 +57,11 @@ img {
  iframe {
  	min-width: 90%;
  	margin-right: 10px;
+}
+.footer p{
+	background-color: #FFD07B;
+}
+ing {
+	float: unset;
  }
 }
